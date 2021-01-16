@@ -1,4 +1,4 @@
-baseURL = "https://nbtest.netlify.com"
+baseURL = "https://nbhugotest.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
